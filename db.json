@@ -1,14 +1,44 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+"Cars":[
+  {
+    "id": 1,
+    "model": "599",
+    "company": "Ferrari",
+    "price": "3.57 Cr*",
+    "engine": "48-valve V-12",
+  },
+   {
+    "id": 2,
+    "model": "DB 9",
+    "company": "Aston Martin",
+    "price": "2.43 Cr*",
+    "engine": "5.9 L V12",
+  },
+   {
+    "id": 3,
+    "model": "Aventador",
+    "company": "Lamborghini",
+    "price": "5.85 Cr*",
+    "engine": "6.5 L V12",
+  },
+   {
+    "id": 4,
+    "model": "Roadster",
+    "company": "Tesla",
+    "price": "3.00 Cr*",
+    "engine": "No spec",
+  }, {
+    "id": 5,
+    "model": "RS 5 Coupe",
+    "company": "Audi",
+    "price": "3.57 Cr*",
+    "engine": "5999 cc Petrol",
+  }, {
+    "id": 6,
+    "model": "911",
+    "company": "Porsche",
+    "price": "1.39 Cr*",
+    "engine": "4.0 l 6-cylinder",
   }
+  ]
 }
